@@ -1,0 +1,4 @@
+train: /content/drive/MyDrive/Data Sets/dataset
+val: /content/drive/MyDrive/Data Sets/dataset
+nc: 1
+names: ['bull']
